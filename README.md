@@ -4,7 +4,7 @@ Aplicación web fullstack desarrollada para la materia Ingeniería de Software d
 
 Este repositorio contiene la presentación general del proyecto, con enlaces a los repositorios específicos de frontend y backend.
 
-🎥 Vídeo demostrativo: [Ver vídeo)]https://youtu.be/9ORTalEEDr0)
+🎥 Vídeo demostrativo: [Ver vídeo](https://youtu.be/9ORTalEEDr0)
 
 ## 📚 Documentación
 
