@@ -1,6 +1,6 @@
 # Historia Clínica y Receta Digital - Proyecto Fullstack
 
-Aplicación web fullstack desarrollada para la materia Ingeniería de Software de la carrera Ingeniería en Sistemas de Información en la UTN-FRT. Esta app permite gestionar historias clínicas y recetas digitales, incluyendo autenticación por roles, manejo de pacientes, recetas y generación de documentos PDF.
+Aplicación web desarrollada para la materia Ingeniería de Software de la carrera Ingeniería en Sistemas de Información en la UTN-FRT. Esta app permite gestionar historias clínicas y recetas digitales, incluyendo autenticación por roles, manejo de pacientes, recetas y generación de documentos PDF.
 
 Este repositorio contiene la presentación general del proyecto, con enlaces a los repositorios específicos de frontend y backend.
 
