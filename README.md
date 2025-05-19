@@ -19,7 +19,7 @@ También podés ver un ejemplo de diagrama de colaboración de objetos utilizado
 ## 🔗 Repositorios
 
 - 🚀 Frontend (React):
-  [https://github.com/ariadnacisterna/historia-clinica-frontend](https://github.com/ariadnacisterna/historia-clinica-frontend)
+  [https://github.com/ariadnacisterna/historia-clinica-frontend](https://github.com/ariadnacisterna/historia-clinica-fronted)
 
 - 🔧 Backend (Java + Spring Boot):
   [https://github.com/ariadnacisterna/historia-clinica-backend](https://github.com/ariadnacisterna/historia-clinica-backend)
